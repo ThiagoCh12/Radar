@@ -1,0 +1,11 @@
+C:\Users\Aluno\source\repos\ProvaEmerson\ProvaEmerson\obj\Debug\ProvaEmerson.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\ProvaEmerson\ProvaEmerson\obj\Debug\ProvaEmerson.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\source\repos\ProvaEmerson\ProvaEmerson\obj\Debug\ProvaEmerson.Form1.resources
+C:\Users\Aluno\source\repos\ProvaEmerson\ProvaEmerson\obj\Debug\ProvaEmerson.Properties.Resources.resources
+C:\Users\Aluno\source\repos\ProvaEmerson\ProvaEmerson\obj\Debug\ProvaEmerson.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\ProvaEmerson\ProvaEmerson\obj\Debug\ProvaEmerson.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\ProvaEmerson\ProvaEmerson\bin\Debug\ProvaEmerson.exe.config
+C:\Users\Aluno\source\repos\ProvaEmerson\ProvaEmerson\bin\Debug\ProvaEmerson.exe
+C:\Users\Aluno\source\repos\ProvaEmerson\ProvaEmerson\bin\Debug\ProvaEmerson.pdb
+C:\Users\Aluno\source\repos\ProvaEmerson\ProvaEmerson\obj\Debug\ProvaEmerson.exe
+C:\Users\Aluno\source\repos\ProvaEmerson\ProvaEmerson\obj\Debug\ProvaEmerson.pdb
